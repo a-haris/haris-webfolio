@@ -1,0 +1,26 @@
+body {
+	text-align:left;
+    margin-left: 80px;
+	background-color:#040433;
+    color:#c4c4c4;
+    font-family: Verdana, sans-serif;
+}
+.name {
+    text-align: left;
+    font-family:Tahoma, sans-serif;
+    display: inline-block;
+}
+.table {
+    margin-left: 100px;
+    margin-right: auto; 
+    width: 60%; 
+    text-align: center;
+    display: inline-block;
+    font-family: Verdana, sans-serif;
+}
+.hr {
+    width: 95%;
+}
+.red {
+    color: #b50e0e;
+}
